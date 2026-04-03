@@ -10,7 +10,7 @@
 
 **Nom :** Hoarau  
 **Prénom :** Lindsay  
-**Promotion :** CPI2 *(Cycle préparatoire Intégré (2ème année))*  
+**Promotion :** CPI2 *(Cycle préparatoire Intégré (2ème année))*   
 **Email :** hru.@gmail.com
 
 ---
